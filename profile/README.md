@@ -1,4 +1,13 @@
-## Hi there 👋
+## Bem-vindo ao perfil da Organização Code Junior!  👋
+
+<h2>Nós somos uma Empresa Júnior de Computação na UFJF. <br />Fundada em 2014, a Code é uma empresa júnior atuante no mercado de computação que trabalha com soluções
+tecnológicas como sites, sistemas e aplicativos.</h2>
+
+<p>Estamos sempre investindo em
+novas tecnologias e qualificação dos membros, para que nossas
+soluções sejam entregues com muita eficiência e qualidade,</p>
+
+<p>Explore nossos repositórios públicos e conheça um pouco mais de nosso trabalho! Code Voa 🚀🚀🚀</p>
 
 <!--
 
