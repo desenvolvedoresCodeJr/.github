@@ -9,7 +9,7 @@ soluções sejam entregues com muita eficiência e qualidade.</p>
 
 <p>Explore nossos repositórios públicos e conheça um pouco mais de nosso trabalho! Code Voa 🚀🚀🚀</p>
 
-<p>Tem interesse e é aluno de computação na UFJF? [www.ps.codejr.com.br](https://ps.codejr.com.br/)</p>
+<p>Tem interesse e é aluno de computação na UFJF? [Processo Seletivo](https://ps.codejr.com.br/)</p>
 
 <!--
 
