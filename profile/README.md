@@ -1,4 +1,4 @@
-## Bem-vindo ao perfil da Organização Code Junior!  👋
+## Bem-vindo ao perfil da Organização Code Júnior!  👋
 
 <strong>Fundada em 2014, a Code é uma empresa júnior atuante no mercado de computação que trabalha com soluções
 tecnológicas como sites, sistemas e aplicativos.</strong>
